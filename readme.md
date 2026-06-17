@@ -1,4 +1,4 @@
-# RENT-A-HAL Personal Edition
+# RENT-A-HAL Personal Edition Multi-User Speech UI for AI
 ## User Manual & Theory of Operation
 
 *"Bringing the future to the present"* — N2NHU Lab for Applied AI
