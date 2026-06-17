@@ -5,6 +5,9 @@
 
 Version 26.16.06 · Summer 2026 · Newburgh, NY
 
+BETA DEMO VIDEO:
+
+https://youtu.be/UXO1vZaK8FI?si=pUpjnRkyXe08rVjX
 ---
 
 ## What This Is
