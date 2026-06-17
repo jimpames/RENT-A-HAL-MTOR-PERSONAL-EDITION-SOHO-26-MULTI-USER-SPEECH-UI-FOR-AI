@@ -5,7 +5,15 @@
 
 Version 26.16.06 · Summer 2026 · Newburgh, NY
 
+PUBLIC LIVE DEMO:
+
+HTTPS://RENTAHAL.COM
+
 BETA DEMO VIDEO:
+
+
+<img width="1357" height="997" alt="rentahal-pe" src="https://github.com/user-attachments/assets/7da95d2d-4a28-4ff5-b6cb-5cb2cac1e025" />
+
 
 https://youtu.be/UXO1vZaK8FI?si=pUpjnRkyXe08rVjX
 ---
