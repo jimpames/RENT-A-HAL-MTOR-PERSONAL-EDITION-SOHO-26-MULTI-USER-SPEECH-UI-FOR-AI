@@ -1,0 +1,68 @@
+# ============================================================================
+# RENT-A-HAL Star Trek Realm — requirements.txt
+# ============================================================================
+# Windows 11 cmd-line venv tested. No torch/CUDA required.
+#
+#   py -m venv venv
+#   venv\Scripts\activate
+#   pip install -r requirements.txt
+#   python app.py
+#
+# Heavy optional providers (Kokoro, torch, whisper, BARK) are commented out
+# below. The chain skips any provider whose package isn't installed —
+# nothing breaks. Uncomment the line, pip install, and the chain picks it up
+# on the next /api/setup_status poll. No restart needed for cloud providers;
+# Kokoro needs a restart since its model loads at first synth call.
+# ============================================================================
+
+# ---- Core web stack (required) ----
+fastapi>=0.115,<1.0
+uvicorn[standard]>=0.30,<1.0
+websockets>=12.0
+python-multipart>=0.0.9          # FastAPI Form() — debug routes need this
+jinja2>=3.1                       # templates/index.html branding
+aiohttp>=3.9                      # async HTTP for chain providers + weather
+pydantic>=2.0                     # FastAPI models
+
+# ---- Test harness (required only for `pytest tests/`) ----
+pytest>=8.0
+pytest-asyncio>=0.23
+
+# ---- Always-available TTS floor ----
+pyttsx3>=2.90                     # cross-platform fallback (Linux espeak, macOS NSSpeech)
+
+# ---- Direct SAPI5 on Windows (skips pyttsx3 entirely; fixes runAndWait wedge) ----
+# pywin32 ships the win32com.client / pythoncom bindings used by SAPI5TTSProvider.
+# Installs only on Windows; pip silently skips on other platforms.
+pywin32>=306 ; sys_platform == "win32"
+
+# ============================================================================
+# OPTIONAL — uncomment what you want to enable. Chain skips uninstalled ones.
+# ============================================================================
+
+# ---- Local LLM via GPT4All API (recommended for offline use) ----
+# GPT4All itself is a separate app from the Microsoft Store or gpt4all.io.
+# This Python package is OPTIONAL — the chain talks to GPT4All's HTTP API
+# directly, no Python client needed. Install GPT4All → Settings → Enable
+# API Server (port 4891). That's it.
+
+# ---- Local TTS via Kokoro ONNX (CUDA optional; CPU works) ----
+# kokoro-onnx>=0.3.0              # download the .onnx file separately
+# onnxruntime>=1.18               # add 'onnxruntime-gpu' instead for CUDA
+# scipy>=1.11                     # Kokoro WAV encoding
+# numpy>=1.24                     # Kokoro arrays
+
+# ---- Legacy torch/whisper/BARK path (NOT recommended on Windows) ----
+# Skip these unless you've already battle-tested torch+CUDA on this box.
+# The chain works fine without them.
+# torch>=2.0
+# openai-whisper>=20231117
+# git+https://github.com/suno-ai/bark.git
+# librosa>=0.10
+# soundfile>=0.12
+
+# ---- Image generation (optional, separate worker via SD WebUI) ----
+# Pillow>=10.0                    # only if you re-enable the vision pipeline
+
+# ---- Redis (optional; presence is detected, absence is OK) ----
+# redis>=5.0
