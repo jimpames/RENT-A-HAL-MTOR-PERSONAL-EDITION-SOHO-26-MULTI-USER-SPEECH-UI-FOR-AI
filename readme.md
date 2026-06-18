@@ -5,6 +5,20 @@
 
 Version 26.16.06 · Summer 2026 · Newburgh, NY
 
+note the BAT file and the HTML file !!! 
+an API demo to PROVE it is real...
+
+What this lets you do
+
+Send the .bat to skeptics: "Run this. Tell me what you see." They get 10 live AI calls in 60 seconds.
+Send the HTML to little Johnnys: "Save this file. Open it. You just built an AI app."
+Send both to operators: "This is what your system would expose if you ran one. No SDK. No cloud. No keys."
+Use them yourself for diagnostics: Demo #10 (latency timing) is genuinely useful — if Saturn responses start taking 30 seconds, the timing breakdown tells you whether it's network, DNS, TLS, or the LLM itself.
+
+🖖 Test it from your Win11 box, Captain. The .bat double-click experience is going to be a real wow moment for first-timers — 10 demos, automatic pacing, real Llama 3 talking back from a 4060 in your basement. No API keys. No cloud. No middlemen. Just curl and a household GPU bringing the future to the present. ✨
+
+
+
 a product many man-years in the making:
 - three years - three books - three redesigns - 1000s of builds - six AI and one human
   
