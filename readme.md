@@ -5,6 +5,9 @@
 
 Version 26.16.06 · Summer 2026 · Newburgh, NY
 
+a product many man-years in the making:
+- three years - three books - three redesigns - 1000s of builds - six AI and one human
+  
 PUBLIC LIVE DEMO:
 
 HTTPS://RENTAHAL.COM
