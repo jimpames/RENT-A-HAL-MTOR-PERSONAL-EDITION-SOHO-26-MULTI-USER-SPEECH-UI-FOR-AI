@@ -5,6 +5,8 @@
 
 Version 26.16.06 · Summer 2026 · Newburgh, NY
 
+status: beta - race bugs 
+
 note the BAT file and the HTML file !!! 
 an API demo to PROVE it is real...
 
