@@ -9,11 +9,30 @@ PUBLIC LIVE DEMO:
 
 HTTPS://RENTAHAL.COM
 
-BETA DEMO VIDEO:
 
-
+MAIN PANEL:
 <img width="1357" height="997" alt="rentahal-pe" src="https://github.com/user-attachments/assets/7da95d2d-4a28-4ff5-b6cb-5cb2cac1e025" />
 
+
+
+
+VOICE SERVICE FINDER:
+<img width="1365" height="974" alt="voice-service-finder" src="https://github.com/user-attachments/assets/a6505b73-fc2b-4ed3-9e91-7b916f100b73" />
+
+VOICE VIDEO PLAYER:
+<img width="1361" height="970" alt="music-videos-on-demand-by-voice" src="https://github.com/user-attachments/assets/99676c95-1d3b-4299-ae3c-75c47345c5c1" />
+
+VOICE WEATHER:
+<img width="1308" height="983" alt="voice-weather" src="https://github.com/user-attachments/assets/232098a2-050e-454d-b926-5ed320080ccf" />
+
+VOICE NEWS:
+<img width="1262" height="979" alt="news-by-voice" src="https://github.com/user-attachments/assets/f35d441a-7438-4de9-9a82-49f05aa0d435" />
+
+VOICE HELP HELP:
+<img width="1303" height="977" alt="help-help-voice-commands" src="https://github.com/user-attachments/assets/1ceb4249-2ea8-47b6-878b-cbd3d64c639a" />
+
+
+BETA DEMO VIDEO:
 
 https://youtu.be/UXO1vZaK8FI?si=pUpjnRkyXe08rVjX
 ---
