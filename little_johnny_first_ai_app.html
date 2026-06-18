@@ -1,0 +1,282 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Little Johnny's First AI App — powered by RENT-A-HAL</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <style>
+    body {
+      font-family: 'Segoe UI', system-ui, sans-serif;
+      max-width: 800px;
+      margin: 2rem auto;
+      padding: 0 1.5rem;
+      background: #0a0a0f;
+      color: #eee;
+      line-height: 1.6;
+    }
+    h1 { color: #ffcc00; font-size: 2rem; margin-bottom: 0.25rem; }
+    .tagline { color: #888; font-size: 0.95rem; margin-bottom: 2rem; }
+    .panel {
+      background: #181820;
+      border: 1px solid #333;
+      border-radius: 0.5rem;
+      padding: 1.25rem;
+      margin-bottom: 1.5rem;
+    }
+    .panel h2 {
+      color: #9bd;
+      margin-top: 0;
+      font-size: 1.1rem;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+    }
+    button {
+      background: #ffcc00;
+      color: #000;
+      border: 0;
+      padding: 0.75rem 1.25rem;
+      border-radius: 0.4rem;
+      font-weight: bold;
+      font-size: 1rem;
+      cursor: pointer;
+      margin: 0.25rem 0.5rem 0.25rem 0;
+    }
+    button:hover { background: #ffd633; }
+    button:disabled { opacity: 0.5; cursor: not-allowed; }
+    .out {
+      background: #0d0d12;
+      padding: 1rem;
+      border-radius: 0.4rem;
+      margin-top: 1rem;
+      border: 1px solid #222;
+      min-height: 2rem;
+      font-family: 'Cascadia Code', 'Consolas', monospace;
+      font-size: 0.95rem;
+      white-space: pre-wrap;
+      color: #cce;
+    }
+    .pulse { color: #ffcc00; animation: pulse 1.5s ease-in-out infinite; }
+    @keyframes pulse { 0%,100% {opacity:0.4;} 50% {opacity:1;} }
+    input[type="text"] {
+      background: #0d0d12;
+      color: #eee;
+      border: 1px solid #444;
+      border-radius: 0.4rem;
+      padding: 0.5rem 0.75rem;
+      font-size: 1rem;
+      width: 100%;
+      box-sizing: border-box;
+      margin-bottom: 0.5rem;
+    }
+    code {
+      background: #0d0d12;
+      color: #cce;
+      padding: 0.1rem 0.4rem;
+      border-radius: 0.2rem;
+      font-family: 'Cascadia Code', 'Consolas', monospace;
+      font-size: 0.85rem;
+    }
+    a { color: #9bd; }
+    pre {
+      background: #0d0d12;
+      padding: 0.75rem;
+      border-radius: 0.4rem;
+      overflow-x: auto;
+      border: 1px solid #222;
+      font-size: 0.85rem;
+    }
+    .small { color: #888; font-size: 0.85em; }
+    .ok { color: #88cc88; }
+    .err { color: #ff7766; }
+    footer { color: #555; font-size: 0.85em; text-align: center; margin-top: 3rem; }
+  </style>
+</head>
+<body>
+
+  <h1>🤖 Little Johnny's First AI App</h1>
+  <div class="tagline">
+    Powered by <a href="https://rentahal.com" target="_blank">rentahal.com</a> —
+    Llama 3 8B Instruct on an RTX 4060 in Newburgh, NY.
+    No API key required.
+  </div>
+
+  <!-- ============================================================ -->
+  <div class="panel">
+    <h2>App #1 — Ask anything</h2>
+    <p>The simplest possible AI app. One button. Llama 3 8B answers.</p>
+    <input type="text" id="q1" value="Tell me one fun fact about Saturn." />
+    <button onclick="ask1()">Ask Llama 3</button>
+    <div class="out" id="out1">Click the button. Llama is waiting.</div>
+  </div>
+
+  <!-- ============================================================ -->
+  <div class="panel">
+    <h2>App #2 — Free weather, no LLM tokens</h2>
+    <p>Routes through the realm's <b>weather</b> intent, not the LLM.
+    Free, structured, fast.</p>
+    <input type="text" id="city" value="Tokyo" placeholder="city name" />
+    <button onclick="ask2()">Get weather</button>
+    <div class="out" id="out2">Type a city, click.</div>
+  </div>
+
+  <!-- ============================================================ -->
+  <div class="panel">
+    <h2>App #3 — Today's news, JSON-ready</h2>
+    <p>Hits <code>/api/news</code>. Headlines come back as JSON. Render however you want.</p>
+    <button onclick="ask3()">Show today's news</button>
+    <div class="out" id="out3">News awaits.</div>
+  </div>
+
+  <!-- ============================================================ -->
+  <div class="panel">
+    <h2>App #4 — Is the realm alive?</h2>
+    <p>The boring-but-essential health check. <code>/api/setup_status</code>.</p>
+    <button onclick="ask4()">Ping the realm</button>
+    <div class="out" id="out4">Click to check.</div>
+  </div>
+
+  <!-- ============================================================ -->
+  <div class="panel">
+    <h2>The source code for App #1 — all of it</h2>
+    <pre>&lt;input id="q1" /&gt;
+&lt;button onclick="ask1()"&gt;Ask Llama 3&lt;/button&gt;
+&lt;div id="out1"&gt;&lt;/div&gt;
+&lt;script&gt;
+async function ask1() {
+  out1.textContent = "thinking...";
+  const r = await fetch("https://rentahal.com/api/ask", {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({ text: q1.value })
+  });
+  const data = await r.json();
+  out1.textContent = data.answer;
+}
+&lt;/script&gt;</pre>
+    <p class="small">That's the whole app. Save it as <code>index.html</code>,
+    open in any browser, you're done. No npm. No build. No keys.</p>
+  </div>
+
+  <!-- ============================================================ -->
+  <div class="panel">
+    <h2>What this proves</h2>
+    <ul>
+      <li>You can build a real AI app in <b>under 20 lines of HTML</b></li>
+      <li>The backend is a single RTX 4060 in someone's lab</li>
+      <li>The LLM is <b>open-source Llama 3 8B</b>, running locally on that GPU</li>
+      <li>No cloud middleman, no token costs, no API keys</li>
+      <li>Works from any device, any network, any browser</li>
+      <li>This page is <b>App #1 itself</b> — view source, learn, fork</li>
+    </ul>
+    <p>Little Johnny built his first AI app. Now it's your turn.</p>
+  </div>
+
+  <footer>
+    Demo against
+    <a href="https://rentahal.com" target="_blank">rentahal.com</a> —
+    RENT-A-HAL Personal Edition 26.16.06 ·
+    Hosted by Jim Ames @ N2NHU Lab, Newburgh NY USA<br>
+    🖖 Live long and prosper.
+  </footer>
+
+  <script>
+  // ============================================================
+  // Tiny helper: hit any /api endpoint, render the JSON
+  // ============================================================
+  const HOST = "https://rentahal.com";
+
+  async function call(path, options = {}) {
+    const r = await fetch(HOST + path, options);
+    return r.json();
+  }
+
+  function setOut(id, text, cls = "") {
+    const el = document.getElementById(id);
+    el.textContent = text;
+    el.className = "out " + cls;
+  }
+
+  function showThinking(id) {
+    const el = document.getElementById(id);
+    el.innerHTML = '<span class="pulse">thinking...</span>';
+  }
+
+  // ============================================================
+  // App #1: Ask Llama 3
+  // ============================================================
+  async function ask1() {
+    const text = document.getElementById("q1").value.trim();
+    if (!text) { setOut("out1", "Type a question first.", "err"); return; }
+    showThinking("out1");
+    try {
+      const data = await call("/api/ask", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ text })
+      });
+      const provider = data.provider ? " (via " + data.provider + ")" : "";
+      setOut("out1", data.answer + "\n\n— Llama 3 8B Instruct" + provider, "ok");
+    } catch (e) {
+      setOut("out1", "Error: " + e.message, "err");
+    }
+  }
+
+  // ============================================================
+  // App #2: Weather realm
+  // ============================================================
+  async function ask2() {
+    const city = document.getElementById("city").value.trim();
+    if (!city) { setOut("out2", "Type a city first.", "err"); return; }
+    showThinking("out2");
+    try {
+      const data = await call("/api/ask", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ text: "weather in " + city })
+      });
+      setOut("out2",
+        data.answer +
+        "\n\n— intent: " + data.intent +
+        " (no LLM tokens used)", "ok");
+    } catch (e) {
+      setOut("out2", "Error: " + e.message, "err");
+    }
+  }
+
+  // ============================================================
+  // App #3: News
+  // ============================================================
+  async function ask3() {
+    showThinking("out3");
+    try {
+      const data = await call("/api/news?limit=5");
+      if (!data.stories || !data.stories.length) {
+        setOut("out3", JSON.stringify(data, null, 2), "");
+        return;
+      }
+      const lines = data.stories.map((s, i) =>
+        (i + 1) + ". " + (s.title || s.headline || "(untitled)") +
+        (s.source ? "  — " + s.source : ""));
+      setOut("out3", lines.join("\n\n"), "ok");
+    } catch (e) {
+      setOut("out3", "Error: " + e.message, "err");
+    }
+  }
+
+  // ============================================================
+  // App #4: Health check
+  // ============================================================
+  async function ask4() {
+    showThinking("out4");
+    try {
+      const data = await call("/api/setup_status");
+      setOut("out4", JSON.stringify(data, null, 2),
+             data.ready ? "ok" : "err");
+    } catch (e) {
+      setOut("out4", "Error: " + e.message, "err");
+    }
+  }
+  </script>
+
+</body>
+</html>
