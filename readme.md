@@ -30,7 +30,7 @@ VOICE WEATHER:
 VOICE NEWS:
 <img width="1262" height="979" alt="news-by-voice" src="https://github.com/user-attachments/assets/f35d441a-7438-4de9-9a82-49f05aa0d435" />
 
-VOICE HELP HELP:
+VOICE HELP HELP: tip - click foto to make it realbig(tm) so you see all commands...
 <img width="1303" height="977" alt="help-help-voice-commands" src="https://github.com/user-attachments/assets/1ceb4249-2ea8-47b6-878b-cbd3d64c639a" />
 
 
