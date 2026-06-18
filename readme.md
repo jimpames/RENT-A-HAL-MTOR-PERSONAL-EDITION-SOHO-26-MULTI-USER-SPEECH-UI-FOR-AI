@@ -1,4 +1,4 @@
-# RENT-A-HAL Personal Edition Multi-User Speech UI for AI
+# RENT-A-HAL Personal Edition API Multi-User Speech UI for AI FOR WINDOWS 11 AND RTX
 ## User Manual & Theory of Operation
 
 *"Bringing the future to the present"* — N2NHU Lab for Applied AI
@@ -13,7 +13,9 @@ HTTPS://RENTAHAL.COM
 MAIN PANEL:
 <img width="1357" height="997" alt="rentahal-pe" src="https://github.com/user-attachments/assets/7da95d2d-4a28-4ff5-b6cb-5cb2cac1e025" />
 
+AI ANSWERS POWERED BY FREE LOCAL GPT4ALL AND LLAMA 3 8B INSTRUCT
 
+<img width="1338" height="990" alt="AI-answers-by-llama-3-" src="https://github.com/user-attachments/assets/d1eb0afb-47d1-4d58-8ff6-1f8bb97b83bd" />
 
 
 VOICE SERVICE FINDER:
