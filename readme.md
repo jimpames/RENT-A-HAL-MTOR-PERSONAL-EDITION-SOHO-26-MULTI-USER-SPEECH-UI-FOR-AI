@@ -39,6 +39,9 @@ HTTPS://RENTAHAL.COM
 API DEMO:
 https://rentahal.com/static/little_johnny_first_ai_app.html
 
+KOKORO app demo:
+https://rentahal.com/static/hear_llama_through_kokoro.html
+
 MAIN PANEL:
 <img width="1357" height="997" alt="rentahal-pe" src="https://github.com/user-attachments/assets/7da95d2d-4a28-4ff5-b6cb-5cb2cac1e025" />
 
