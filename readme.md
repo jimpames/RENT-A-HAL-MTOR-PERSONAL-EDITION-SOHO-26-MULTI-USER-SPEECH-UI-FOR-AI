@@ -17,7 +17,23 @@ Use them yourself for diagnostics: Demo #10 (latency timing) is genuinely useful
 
 🖖 Test it from your Win11 box, Captain. The .bat double-click experience is going to be a real wow moment for first-timers — 10 demos, automatic pacing, real Llama 3 talking back from a 4060 in your basement. No API keys. No cloud. No middlemen. Just curl and a household GPU bringing the future to the present. ✨
 
+🖖 Two killer demos, both built from your real app.py source.
+rentahal_demo.bat                → double-click on Win11 — 10 live API calls
+little_johnny_first_ai_app.html  → open in any browser — 4 working AI mini-apps
+The Win11 .bat file — 10 live demos
+Each one demonstrates something specific about the API:
+#DemoWhat it proves1setup_statusRealm is alive, LLM + TTS providers ready2configWhat the realm is configured to do3Ask Llama 3 about SaturnThe big one — Little Johnny's first AI app4Weather in TokyoIntent routing — no LLM tokens used5Today's headlinesStructured JSON news6News feeds listWhat sources are configured7Haiku about PythonLlama 3's creative side8Math jokeNewburgh-to-Tokyo train problem 😄9Save to filePipeable/scriptable JSON output10Latency timingDNS + TLS + first byte + total — proves real-world responsiveness
+Each demo pauses between calls so the human can read the response before pressing a key. Color-coded output. Honest endpoints. Real Llama 3. The closing screen shows a 5-line HTML version of the same app.
+The HTML file — Little Johnny's actual first AI app
+Open it in any browser (even from your local disk via file://) and you have 4 working AI mini-apps:
 
+Ask anything — type a question, Llama 3 answers in real time
+Free weather — proves no LLM tokens needed for weather
+Today's news — JSON to clean text rendering in 5 lines
+Health ping — the boring-but-essential check
+
+Plus a panel showing the complete source code for App #1 — every line — so a kid can read it, copy it, modify it, and have their own AI app in 5 minutes.
+The page is itself the demo — view source, learn the API, fork your own version. Beautiful black-and-amber styling matching your BETA-5 terminal aesthetic.
 
 a product many man-years in the making:
 - three years - three books - three redesigns - 1000s of builds - six AI and one human
