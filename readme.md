@@ -7,6 +7,8 @@ Version 26.16.06 · Summer 2026 · Newburgh, NY
 
 status: beta - race bugs 
 
+will I be making this available???? yes. binary only. when bugs are dealt with. before summer I hope.
+
 note the BAT file and the HTML file !!! 
 an API demo to PROVE it is real...
 
