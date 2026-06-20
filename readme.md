@@ -1,6 +1,8 @@
 # RENT-A-HAL Personal Edition API Multi-User Speech UI for AI FOR WINDOWS 11 AND RTX
 ## User Manual & Theory of Operation
 
+<img width="1022" height="557" alt="HERO-PANEL-RENT-A-HAL" src="https://github.com/user-attachments/assets/f3a36222-7a3b-47cf-98a0-cc7c779ed994" />
+
 *"Bringing the future to the present"* — N2NHU Lab for Applied AI
 
 Version 26.16.06 · Summer 2026 · Newburgh, NY
@@ -17,11 +19,6 @@ major release capability - peer federation
 release status: beta - race bugs 
 
 will I be making this available???? yes. binary only. when bugs are dealt with. before summer I hope.
-
-
-<img width="1022" height="557" alt="HERO-PANEL-RENT-A-HAL" src="https://github.com/user-attachments/assets/f3a36222-7a3b-47cf-98a0-cc7c779ed994" />
-
-
 
 note the BAT file and the HTML file !!! 
 an API demo to PROVE it is real...
