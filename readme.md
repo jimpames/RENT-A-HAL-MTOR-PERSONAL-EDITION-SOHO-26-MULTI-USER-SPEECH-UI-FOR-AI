@@ -18,6 +18,11 @@ release status: beta - race bugs
 
 will I be making this available???? yes. binary only. when bugs are dealt with. before summer I hope.
 
+
+<img width="1022" height="557" alt="HERO-PANEL-RENT-A-HAL" src="https://github.com/user-attachments/assets/f3a36222-7a3b-47cf-98a0-cc7c779ed994" />
+
+
+
 note the BAT file and the HTML file !!! 
 an API demo to PROVE it is real...
 
