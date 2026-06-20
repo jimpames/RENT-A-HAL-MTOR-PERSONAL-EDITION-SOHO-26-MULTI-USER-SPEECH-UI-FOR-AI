@@ -7,6 +7,15 @@
 
 Version 26.16.06 · Summer 2026 · Newburgh, NY
 
+20 jun 26
+
+PEERING / FEDERATION / CLUSTERING / LOAD BALANCING is LIVE 
+
+demo pair:
+https://realnewslistener.com/
+
+https://rentahal.com
+
 new 
 
 19 jun 26
