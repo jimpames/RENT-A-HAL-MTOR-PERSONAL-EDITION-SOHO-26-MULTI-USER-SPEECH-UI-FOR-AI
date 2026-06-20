@@ -16,6 +16,8 @@ https://github.com/jimpames/RENT-A-HAL-MTOR-PERSONAL-EDITION-SOHO-26-MULTI-USER-
 
 major release capability - peer federation
 
+<img width="1288" height="944" alt="federation" src="https://github.com/user-attachments/assets/cb9b8256-bb7e-44f0-b59c-eef22d03e966" />
+
 release status: beta - race bugs 
 
 will I be making this available???? yes. binary only. when bugs are dealt with. before summer I hope.
