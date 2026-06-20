@@ -5,7 +5,16 @@
 
 Version 26.16.06 · Summer 2026 · Newburgh, NY
 
-status: beta - race bugs 
+new 
+
+19 jun 26
+
+operator guide
+https://github.com/jimpames/RENT-A-HAL-MTOR-PERSONAL-EDITION-SOHO-26-MULTI-USER-SPEECH-UI-FOR-AI/blob/main/RENT-A-HAL_Operators_Manual.md
+
+major release capability - peer federation
+
+release status: beta - race bugs 
 
 will I be making this available???? yes. binary only. when bugs are dealt with. before summer I hope.
 
