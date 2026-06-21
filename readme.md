@@ -10,7 +10,7 @@ Version 26.16.06 · Summer 2026 · Newburgh, NY
 Business Model:
 - make a headache for cloud providers
 - by giving away for free the ability for people
-- to have scalable, reliable, speech in/out AI local
+- to have scalable, reliable, multi-user speech in/out AI -  local !!!!
 - on NVIDIA RTX CONSUMER 8 GB cards for free
 
 How I will profit:
