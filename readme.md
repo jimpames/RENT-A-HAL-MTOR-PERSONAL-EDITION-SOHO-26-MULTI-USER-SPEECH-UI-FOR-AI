@@ -7,6 +7,58 @@
 
 Version 26.16.06 · Summer 2026 · Newburgh, NY
 
+21 jun 26
+
+Status: BETA (race bugs for cards)
+
+Binary Availability date: Targeting 4 July 2026  
+
+Conponents:
+(kokoro TTS microservice on port 9998
+RENT A HAL multi-user API Federated on port 9999
+realm control/startup wizard on port 9100
+ngrok tunnel wizard on 9100
+
+wizard features: 
+- Set RENT-A-HAL Public URL
+- Set RENT-A-HAL Federation MASTER URL (bolt a url to a ngrok tunnel and build 6 RTX RENT-A-HAL nodes and point them to the ngrok URL - now you have a powerful private AI cluster for serving a big office)
+- ** Just you and your one RENT-A-HAL RTX local AI node in your game rig? Feeling lonely? Need better AI service for FREE? **
+- ** Federate to the default RENTAHAL.COM Master for more reliable service, automatic clustering and failover for TTS and AI **
+- Set Federation DESIRE: on/off
+- Set wake word timer: SHORT/MEDIUM/LONG/INFINITE (15/30/60 seconds/forever) - AI node speaks softly 'RENT-A-HAL' every 15 seconds while awake - 'WAKE WORK OFF' speech command supported
+- Set max token out for local AI
+- Set federation timeouts for TTS and AI
+- Set top line brag string
+- Sub Wizard  for establishing openweather key
+- Sub Wizard for establishing ngrok tunnel key
+- Sub Wizard for establishing GPT4ALL install and API mode and LLM preference and test
+- ** peering is automatic when on - the FEDERATOR drops DOMAIN hints each 15 seconds for TTS and AI back to unsolicited peer ACKS which hold special types: AI HEALTH/TTS HEALTH
+- ** Peering failover and failback is fully automated once on - split brain is impossible because of design - a REALM has a single FEDERATION MASTER. Clusering of master coming in future.
+  
+Features coming in next sprints:
+
+21 jun 26 lunch sprint: 
+- set token max out for LLM in config.ini and use it
+- set default wake word timer in config.ini and use it
+- make the system softly speak 'rent-a-hal' each 15 seconds when listening
+
+  22 Jun 26 evening sprint:
+  - add voice reminders and notes with live tiles
+
+   23 Jun 26 evening sprint:
+  - voice diags dash: shows event bus status/diags; federation status / diags; client status/diags
+
+future sprints:
+- support stable diffusion 1.5 automatic1111 in API mode for new backend/public API capability
+- support LLAVA vision foto analysis (ollama) in API mode for new backend/public API capabilty
+- gesture support (wave hand to engage listening)
+- violence detection
+- shoplifting detection
+- audio sports news - baseball, basketball, football, soccer, cricket
+- video news: main news headlines, sports, weather
+- ALEXA device interface bridge (control your lights without leaving RENT-A-HAL)
+  
+
 Business Model:
 - make a headache for cloud providers
 - by giving away for free the ability for people
