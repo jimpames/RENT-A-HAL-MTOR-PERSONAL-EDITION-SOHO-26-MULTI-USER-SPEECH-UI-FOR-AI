@@ -11,7 +11,7 @@ Business Model:
 - make a headache for cloud providers
 - by giving away for free the ability for people
 - to have scalable, reliable, speech in/out AI local
-- on NVIDIA RTX CONSUMBER 8 GB cards for free
+- on NVIDIA RTX CONSUMER 8 GB cards for free
 
 How I will profit:
 - you must be joking
