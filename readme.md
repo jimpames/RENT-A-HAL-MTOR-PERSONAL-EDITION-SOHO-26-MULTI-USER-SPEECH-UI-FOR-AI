@@ -14,10 +14,15 @@ Status: BETA (race bugs for cards)
 Binary Availability date: Targeting 4 July 2026  
 
 Conponents:
+
 (kokoro TTS microservice on port 9998
+
 RENT A HAL multi-user API Federated on port 9999
+
 realm control/startup wizard on port 9100
-ngrok tunnel wizard on 9100
+
+ngrok tunnel wizard on 9100)
+
 
 wizard features: 
 - Set RENT-A-HAL Public URL
