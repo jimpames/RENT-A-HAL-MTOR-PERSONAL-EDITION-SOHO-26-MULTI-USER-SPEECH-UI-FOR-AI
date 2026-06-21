@@ -59,7 +59,7 @@ future sprints:
 - gesture support (wave hand to engage listening)
 - violence detection
 - shoplifting detection
-- audio sports news - baseball, basketball, football, soccer, cricket
+- audio sports news - baseball, basketball, football, soccer, cricket, hockey
 - video news: main news headlines, sports, weather
 - ALEXA device interface bridge (control your lights without leaving RENT-A-HAL)
   
