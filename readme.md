@@ -13,7 +13,7 @@ Status: BETA (race bugs for cards)
 
 Binary Availability date: Targeting 4 July 2026  
 
-Conponents:
+Components:
 
 (kokoro TTS microservice on port 9998
 
