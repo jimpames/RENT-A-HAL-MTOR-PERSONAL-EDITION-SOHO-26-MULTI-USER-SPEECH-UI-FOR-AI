@@ -7,6 +7,13 @@
 
 Version 26.16.06 · Summer 2026 · Newburgh, NY
 
+21 jun 26
+hot new music player demo - no key, no subscription:
+- play any msuic video on demand, legally
+
+https://youtu.be/t_v1tY6svB8?si=JDGh3W3nbFYZgBiV
+
+
 20 jun 26
 
 PEERING / FEDERATION / CLUSTERING / LOAD BALANCING is LIVE 
