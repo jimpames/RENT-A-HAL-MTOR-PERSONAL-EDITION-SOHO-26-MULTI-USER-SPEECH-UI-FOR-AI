@@ -37,6 +37,7 @@ wizard features:
 - Sub Wizard  for establishing openweather key
 - Sub Wizard for establishing ngrok tunnel key
 - Sub Wizard for establishing GPT4ALL install and API mode and LLM preference and test
+- Sub Wizard for RTX/CUDA
 - ** peering is automatic when on - the FEDERATOR drops DOMAIN hints each 15 seconds for TTS and AI back to unsolicited peer ACKS which hold special types: AI HEALTH/TTS HEALTH
 - ** Peering failover and failback is fully automated once on - split brain is impossible because of design - a REALM has a single FEDERATION MASTER. Clusering of master coming in future.
   
