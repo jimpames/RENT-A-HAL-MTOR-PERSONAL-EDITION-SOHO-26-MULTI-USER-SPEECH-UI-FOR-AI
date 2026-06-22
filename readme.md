@@ -11,7 +11,7 @@ Version 26.16.06 · Summer 2026 · Newburgh, NY
 
 Performance:
 
-gpt4all with llama (Llama 3.2 3B Instruct) is generating 50 to 80 tokens per second
+gpt4all with llama (Llama 3.2 3B Instruct) is generating 50 to 80 tokens per second on RTX 8GB cards (4060/2070S)
 
 Status: BETA (race bugs for cards)
 
