@@ -33,7 +33,7 @@ design:
 
 - eventbus, event driven, asynchronus, API first [see doc]
 
-Federation Protocol v1 extensible w metadata of intent realm as health report subdiomain
+Federation Protocol v1 extensible w metadata of intent realm as health report subdomain
 
 - designed n2nhu labs, newburgh, ny usa 12550
 
