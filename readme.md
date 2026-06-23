@@ -17,7 +17,8 @@ Version 26.16.06 · Summer 2026 · Newburgh, NY
 
 NGROK TUNNELING: 100 % supported and in wizard!!!
 
-** built for ngrok tunnelling **
+** built for ngrok tunneling **
+
 designer: jim ames, n2nhu
 
 coders: claude, gpt, gemini, grok, copilot, perplexity 
