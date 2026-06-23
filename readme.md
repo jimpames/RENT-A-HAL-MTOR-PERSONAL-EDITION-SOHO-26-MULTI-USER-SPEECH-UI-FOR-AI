@@ -11,7 +11,7 @@ Version 26.16.06 · Summer 2026 · Newburgh, NY
 
 lunchtime update
 
-1 bug remains that I see - a rache condition for display of cards
+1 bug remains that I see - a race condition for display of cards
 - debug code has been added to find this - promoting to dev TONIGHT
 - goal: find problem in debug , submit to claude and solve tonight.
 
