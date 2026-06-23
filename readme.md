@@ -23,6 +23,12 @@ designer: jim ames, n2nhu
 
 coders: claude, gpt, gemini, grok, copilot, perplexity 
 
+major feature:
+
+- federation
+
+participants in federation get automatic peer failover and failback to prevent meltdowns.
+
 23 jun 2026
 
 lunchtime update
