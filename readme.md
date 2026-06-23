@@ -29,6 +29,15 @@ major feature:
 
 participants in federation get automatic peer failover and failback to prevent meltdowns.
 
+design:
+
+- eventbus, event driven, asynchronus
+
+Federation Protocol v1 extensible w metadata of intent realm as health report subdiomain
+
+- designed n2nhu labs, newburgh, ny usa 12550
+
+ 
 23 jun 2026
 
 lunchtime update
