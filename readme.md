@@ -17,7 +17,8 @@ lunchtime update
 
   Proposed Scheduled Release Date:
 
-  Product: RENT-A-HAL '26 SOHO RTX Multi-User Speech AI/API Realm with Federation
+  Product: RENT-A-HAL '26 SOHO RTX Multi-User Speech AI/API Realm - Federation Edition
+  
   Release Date Forecast: 27 June 2026 - Binaries only - RENT-A-HAL Multi User and KOKORO Microservice as well as Startup Wizard
   
 21 jun 26
