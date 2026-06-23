@@ -7,6 +7,19 @@
 
 Version 26.16.06 · Summer 2026 · Newburgh, NY
 
+23 jun 2026
+
+lunchtime update
+
+1 bug remains that I see - a rache condition for display of cards
+- debug code has been added to find this - promoting to dev TONIGHT
+- goal: find problem in debug , submit to claude and solve tonight.
+
+  Proposed Scheduled Release Date:
+
+  Product: RENT-A-HAL '26 SOHO RTX Multi-User Speech AI/API Realm with Federation
+  Release Date Forecast: 27 June 2026 - Binaries only - RENT-A-HAL Multi User and KOKORO Microservice as well as Startup Wizard
+  
 21 jun 26
 
 Performance:
