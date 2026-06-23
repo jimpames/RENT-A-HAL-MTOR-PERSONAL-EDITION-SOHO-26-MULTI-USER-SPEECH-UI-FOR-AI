@@ -17,9 +17,24 @@ lunchtime update
 
   Proposed Scheduled Release Date:
 
-  Product: RENT-A-HAL '26 SOHO RTX Multi-User Speech AI/API Realm - Federation Edition
+  Product: RENT-A-HAL MTOR '26 SOHO/PERSONAL RTX Multi-User Speech AI/API Realm - Federation Edition
   
   Release Date Forecast: 27 June 2026 - Binaries only - RENT-A-HAL Multi User and KOKORO Microservice as well as Startup Wizard
+
+
+  Amazon books:
+
+  Theory of design and code walkthru - all of these are also free PDF in the rentahal repo in my github
+
+https://www.amazon.com/MTOR-Alice-Enters-Theory-Operation/dp/B0F7FWLS2C
+
+https://www.amazon.com/MTOR-Welcome-Realm-j-ames-ebook/dp/B0F6BDXZYH
+
+These books above descripe the REFERENCE IMPLEMENTATION of MTOR/RENT-A-HAL
+
+on which RENT-A-HAL '26 SOHO/PERSONAL is based.
+
+
   
 21 jun 26
 
