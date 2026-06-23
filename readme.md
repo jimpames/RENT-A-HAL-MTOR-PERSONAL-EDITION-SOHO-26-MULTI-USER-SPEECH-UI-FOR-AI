@@ -31,7 +31,7 @@ participants in federation get automatic peer failover and failback to prevent m
 
 design:
 
-- eventbus, event driven, asynchronus
+- eventbus, event driven, asynchronus, API first [see doc]
 
 Federation Protocol v1 extensible w metadata of intent realm as health report subdiomain
 
