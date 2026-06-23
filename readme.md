@@ -30,7 +30,7 @@ https://www.amazon.com/MTOR-Alice-Enters-Theory-Operation/dp/B0F7FWLS2C
 
 https://www.amazon.com/MTOR-Welcome-Realm-j-ames-ebook/dp/B0F6BDXZYH
 
-These books above descripe the REFERENCE IMPLEMENTATION of MTOR/RENT-A-HAL
+These books above describe the REFERENCE IMPLEMENTATION of MTOR/RENT-A-HAL
 
 on which RENT-A-HAL '26 SOHO/PERSONAL is based.
 
