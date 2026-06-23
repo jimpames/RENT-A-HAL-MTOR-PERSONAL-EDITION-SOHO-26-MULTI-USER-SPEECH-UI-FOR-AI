@@ -15,6 +15,13 @@ Version 26.16.06 · Summer 2026 · Newburgh, NY
 - 
 - WE SUPPORT * ANY * MODEL THAT WILL LOAD TO GPT4ALL - WE SUPPORT CLAUDE VIA API
 
+NGROK TUNNELING: 100 % supported and in wizard!!!
+
+** built for ngrok tunnelling **
+designer: jim ames, n2nhu
+
+coders: claude, gpt, gemini, grok, copilot, perplexity 
+
 23 jun 2026
 
 lunchtime update
