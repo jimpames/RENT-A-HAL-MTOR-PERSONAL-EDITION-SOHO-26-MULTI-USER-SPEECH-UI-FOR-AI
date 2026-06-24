@@ -7,6 +7,14 @@
 
 Version 26.16.06 · Summer 2026 · Newburgh, NY
 
+24 jun 26 update
+
+RENT-A-HAL SOHO v1 gold master binaries pressed late last night.
+
+https://rentahal.com RUNNING from gold master binaries
+
+installer will be built this weekend and links posted here...
+
 final sprint planned for 4th of july - for multi AI rent a hal - chat /vision / imagine
 
 https://github.com/jimpames/RENT-A-HAL-MTOR-PERSONAL-EDITION-SOHO-26-MULTI-USER-SPEECH-UI-FOR-AI/blob/main/RENT-A-HAL_v1.1_Sprint_Plan_FINAL.md
