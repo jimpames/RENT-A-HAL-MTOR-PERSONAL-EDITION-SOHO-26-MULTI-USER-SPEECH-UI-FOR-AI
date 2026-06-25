@@ -102,47 +102,6 @@ wizard features:
 - ** peering is automatic when on - the FEDERATOR drops DOMAIN hints each 15 seconds for TTS and AI back to unsolicited peer ACKS which hold special types: AI HEALTH/TTS HEALTH
 - ** Peering failover and failback is fully automated once on - split brain is impossible because of design - a REALM has a single FEDERATION MASTER. Clusering of master coming in future.
   
-Features coming in next sprints:
-
-history
-
-23 jun 2026
-
-lunchtime update
-
-1 bug remains that I see - a race condition for display of cards
-- debug code has been added to find this - promoting to dev TONIGHT
-- goal: find problem in debug , submit to claude and solve tonight.
-
-  Proposed Scheduled Release Date:
-
-  Product: RENT-A-HAL MTOR '26 SOHO/PERSONAL RTX Multi-User Speech AI/API Realm - Federation Edition
-  
-  Release Date Forecast: 27 June 2026 - Binaries only - RENT-A-HAL Multi User and KOKORO Microservice as well as Startup Wizard
-
-
-
-
-21 jun 26 lunch sprint: 
-- completed: set token max out for LLM in config.ini and use it
-- completed: set default wake word timer in config.ini and use it
-- completed: make the system softly speak 'rent-a-hal' each 15 seconds when listening
-
-  22 Jun 26 evening sprint:
-  - add voice reminders and notes with live tiles
-
-   23 Jun 26 evening sprint:
-  - voice diags dash: shows event bus status/diags; federation status / diags; client status/diags
-
-future sprints:
-- support stable diffusion 1.5 automatic1111 in API mode for new backend/public API capability
-- support LLAVA vision foto analysis (ollama) in API mode for new backend/public API capabilty
-- gesture support (wave hand to engage listening)
-- violence detection
-- shoplifting detection
-- audio sports news - baseball, basketball, football, soccer, cricket, hockey
-- video news: main news headlines, sports, weather
-- ALEXA device interface bridge (control your lights without leaving RENT-A-HAL)
   
 
 Business Model:
