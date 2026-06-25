@@ -7,7 +7,7 @@
 
 Version 26.16.06 · Summer 2026 · Newburgh, NY
 
-25 june 25
+25 june 26
 product announcement 
 
 https://github.com/jimpames/RENT-A-HAL-MTOR-PERSONAL-EDITION-SOHO-26-MULTI-USER-SPEECH-UI-FOR-AI/blob/main/RENT-A-HAL_Product_Announcement.pdf
