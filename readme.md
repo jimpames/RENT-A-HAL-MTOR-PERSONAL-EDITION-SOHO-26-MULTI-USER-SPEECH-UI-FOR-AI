@@ -12,6 +12,8 @@ product announcement
 
 https://github.com/jimpames/RENT-A-HAL-MTOR-PERSONAL-EDITION-SOHO-26-MULTI-USER-SPEECH-UI-FOR-AI/blob/main/RENT-A-HAL_Product_Announcement.pdf
 
+- comes with doom! https://rentahal.com/static/doom.html
+- 
 24 jun 26 update
 
 RENT-A-HAL SOHO v1 gold master binaries pressed late last night.
