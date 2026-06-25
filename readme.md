@@ -50,21 +50,6 @@ Federation Protocol v1 extensible w metadata of intent realm as health report su
 - designed n2nhu labs, newburgh, ny usa 12550
 
  
-23 jun 2026
-
-lunchtime update
-
-1 bug remains that I see - a race condition for display of cards
-- debug code has been added to find this - promoting to dev TONIGHT
-- goal: find problem in debug , submit to claude and solve tonight.
-
-  Proposed Scheduled Release Date:
-
-  Product: RENT-A-HAL MTOR '26 SOHO/PERSONAL RTX Multi-User Speech AI/API Realm - Federation Edition
-  
-  Release Date Forecast: 27 June 2026 - Binaries only - RENT-A-HAL Multi User and KOKORO Microservice as well as Startup Wizard
-
-
   Amazon books:
 
   Theory of design and code walkthru - all of these are also free PDF in the rentahal repo in my github
@@ -118,6 +103,25 @@ wizard features:
 - ** Peering failover and failback is fully automated once on - split brain is impossible because of design - a REALM has a single FEDERATION MASTER. Clusering of master coming in future.
   
 Features coming in next sprints:
+
+history
+
+23 jun 2026
+
+lunchtime update
+
+1 bug remains that I see - a race condition for display of cards
+- debug code has been added to find this - promoting to dev TONIGHT
+- goal: find problem in debug , submit to claude and solve tonight.
+
+  Proposed Scheduled Release Date:
+
+  Product: RENT-A-HAL MTOR '26 SOHO/PERSONAL RTX Multi-User Speech AI/API Realm - Federation Edition
+  
+  Release Date Forecast: 27 June 2026 - Binaries only - RENT-A-HAL Multi User and KOKORO Microservice as well as Startup Wizard
+
+
+
 
 21 jun 26 lunch sprint: 
 - completed: set token max out for LLM in config.ini and use it
