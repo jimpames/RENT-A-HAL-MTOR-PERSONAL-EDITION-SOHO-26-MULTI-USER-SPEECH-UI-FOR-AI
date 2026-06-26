@@ -6,32 +6,57 @@
 *"Bringing the future to the present"* — N2NHU Lab for Applied AI
 
 Version 26.16.06 · Summer 2026 · Newburgh, NY
+
 ============================================================================================================
+
 26 jun 26
+
 ==============================================================================================================
+
 ***** rent-a-hal 26 soho api federated v1 is released ********
+
 ***** rent-a-hal 26 soho api federated v1 is released ********
+
 ***** rent-a-hal 26 soho api federated v1 is released ********
+
 ***** rent-a-hal 26 soho api federated v1 is released ********
+
 ***** rent-a-hal 26 soho api federated v1 is released ********
+
 ***** rent-a-hal 26 soho api federated v1 is released ********
+
 ======================================================================================================================
+
 these binaries are UNSIGNED - I will not have a code signing kit until mid july
+
 you WILL GET WARNINGS downloading/running these files !!!!
+
 if that makes you nervous, go play with the website version until I get it signed
+
 ==========================================================================================================================
+
 first installer - kokoro tts microservice for rent-a-hal
+
 =========================================================================================================================
+
 readme - https://drive.google.com/file/d/1-Ypo_aQyK62GeaUgiiIciGwi4tLE9tQm/view?usp=sharing
+
 =======================================================================================================================
+
 kokoro tts installer - https://drive.google.com/file/d/1HqE7tyXUmoh93LhC8lTbAA8i5gpco2m0/view?usp=sharing
+
 ====================================================================================================================
 
 second installer - rent-a-hal 26 soho api federated
+
 ==============================================================================================================
+
 readme - coming today 26 jun 26
+
 ======================================================================================================================
+
 rent-a-hal soho 26 api/federated installer - coming today 26 jun 26
+
 ============================================================================================================
 
 
