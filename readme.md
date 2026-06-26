@@ -133,11 +133,11 @@ second installer - rent-a-hal 26 soho api federated
 
 ==============================================================================================================
 
-readme - coming today 26 jun 26
-
+readme - [coming today 26 jun 26
+](https://drive.google.com/file/d/1ZdICYLQppaQRRKmX6lTvwB1NbOmANaxX/view?usp=sharing)
 ======================================================================================================================
 
-rent-a-hal soho 26 api/federated installer - coming today 26 jun 26
+rent-a-hal soho 26 api/federated installer - [coming today 26 jun 26](https://drive.google.com/file/d/1TFBlRNw3yUThha97AZ05FIl4LpQWr5u4/view?usp=sharing)
 
 ============================================================================================================
 
