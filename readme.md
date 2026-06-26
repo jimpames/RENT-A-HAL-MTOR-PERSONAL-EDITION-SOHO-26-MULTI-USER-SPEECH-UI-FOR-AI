@@ -20,7 +20,63 @@ https://pump.fun/coin/3eazihmAw8yNHhgoNaNr8aBGaBaoLcwZVCBDPnrSpump
 email me to claim your reward: jimpames@gmail.com
 
 ==============================================================================================================
+quick start
 
+26 jun 26
+lunch
+
+number 1 :
+- a rtx card is required - so is cuda - should be 2060S or better
+
+- this runs on winn 11 nothing else
+
+- binary exes for win11
+
+install gpt4all - turn on api mode in settings
+========================================================================================================
+
+install some language models inside gpt4all
+=====================================================================================================
+- recommeded llm to select from gpt4all at boot of realm is llama 3.2 3B Instruct - 50 to 80 tokens per second good reasoning
+
+ - warning - 8B models can be used, tokens will be low and responses will take time.
+ - 
+   - not recommended in federation, as others may not choose to run your model
+  
+   - federation only guarantees LLM failover, NOT model match.
+   - 
+   -     operators choose their own models...
+   - 
+   ==============================================================
+install kokoro from link below
+=================================================================
+install rent-a-hal from link below
+================================================================
+kokoro will run on 9998 - leave it on always 
+=============================================================
+rent-a-hal will run on 9999 - leave it on always
+============================================================
+browse to localhost:9999 is how you interface single user to rent-a-hal
+
+if you want multi-user, you need a domain to run from.
+
+we support ngrok tunnels in our wizard out of the box so you can bolt a domain to your rent-a-hal
+- note that if you use ngrok for domain service, you DO NOT need to open ANY firewall ports
+  
+want to use ngrok to attach a domain to rent-a-hal so oyu don't need to change hardware firewall settings? 
+
+go ask AI at google:
+
+- how to get a ngrok account
+- how to get a domain at namecheap
+- how to setup my domain at ngrok
+- how to setup my ngrok domain in my DNS for my domain (cname @ bignumberlinkfromngrokfromyourpanel)
+- how to install ngrok on win11 
+- how to point my ngrok domain to my localhost:9999 so service will run for the domain 
+
+https://rentahal.com runs from my lab on 9999 and is served external via that domain which is bolted to ngrok
+
+- my hardware firewall has no awareness of ngrok, the tunnel or rent-a-hal being served on my GB residential FIOS...
 
 ==============================================================================================================
 
