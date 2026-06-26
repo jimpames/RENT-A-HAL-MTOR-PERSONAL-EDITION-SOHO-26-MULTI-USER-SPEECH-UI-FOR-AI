@@ -29,6 +29,7 @@ quick start
 lunch
 
 number 1 :
+
 - a rtx card is required - so is cuda - should be 2060S or better
 
 - this runs on win 11 nothing else
@@ -36,6 +37,16 @@ number 1 :
 - binary exes for win11
 
 install gpt4all - turn on api mode in settings
+
+number 2:
+
+- we use chrome google edge for speech detection - so you need internet
+- 
+- if you don't like us using google chrome for speech in, simply use the text/button interface. don't use speech.
+
+- we get a string of text back from google, not your utterances ...
+
+- WAKE WORD MODE: shuts DOWN by default in 15 secs.. supports 15 sec/30/60/infinite - speaks softly 'RENT-A-HAL' each 30 seconds while in wake mode as pravicy guard/reminder
 ========================================================================================================
 
 install some language models inside gpt4all
