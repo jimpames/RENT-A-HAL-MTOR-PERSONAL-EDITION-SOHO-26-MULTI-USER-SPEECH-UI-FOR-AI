@@ -66,7 +66,7 @@ if you want multi-user, you need a domain to run from.
 we support ngrok tunnels in our wizard out of the box so you can bolt a domain to your rent-a-hal
 - note that if you use ngrok for domain service, you DO NOT need to open ANY firewall ports
   
-want to use ngrok to attach a domain to rent-a-hal so oyu don't need to change hardware firewall settings? 
+want to use ngrok to attach a domain to rent-a-hal so you don't need to change hardware firewall settings? 
 
 go ask AI at google:
 
@@ -81,6 +81,7 @@ https://rentahal.com runs from my lab on 9999 and is served external via that do
 
 - my hardware firewall has no awareness of ngrok, the tunnel or rent-a-hal being served on my GB residential FIOS...
 
+**** you should always leave peering ON which is the default
 ==============================================================================================================
 
 ***** rent-a-hal 26 soho api federated v1 is released ********
