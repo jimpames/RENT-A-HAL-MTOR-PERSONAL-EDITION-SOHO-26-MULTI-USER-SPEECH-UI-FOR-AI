@@ -46,7 +46,7 @@ number 2:
 
 - we get a string of text back from google, not your utterances ...
 
-- WAKE WORD MODE: shuts DOWN by default in 15 secs.. supports 15 sec/30/60/infinite - speaks softly 'RENT-A-HAL' each 30 seconds while in wake mode as pravicy guard/reminder
+- WAKE WORD MODE: shuts DOWN by default in 15 secs.. supports 15 sec/30/60/infinite - speaks softly 'RENT-A-HAL' each 30 seconds while in wake mode as privacy guard/reminder
 ========================================================================================================
 
 install some language models inside gpt4all
