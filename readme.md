@@ -31,7 +31,7 @@ lunch
 number 1 :
 - a rtx card is required - so is cuda - should be 2060S or better
 
-- this runs on winn 11 nothing else
+- this runs on win 11 nothing else
 
 - binary exes for win11
 
