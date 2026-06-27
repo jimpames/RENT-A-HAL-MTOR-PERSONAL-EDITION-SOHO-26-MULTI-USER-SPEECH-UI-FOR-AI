@@ -1,3 +1,4 @@
+<img width="1477" height="981" alt="COFFEE" src="https://github.com/user-attachments/assets/9c04c347-5a1a-498a-b0d1-8d23f588dc11" />
 <img width="1428" height="989" alt="weather" src="https://github.com/user-attachments/assets/0bff786a-f986-40d8-9872-ff58f5ce53d0" />
 <img width="1533" height="997" alt="turbo lover" src="https://github.com/user-attachments/assets/afa76834-5cf4-4a96-a9b7-be947ed65874" />
 # RENT-A-HAL Personal Edition API Multi-User Speech UI for AI FOR WINDOWS 11 AND RTX
