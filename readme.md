@@ -1,3 +1,4 @@
+<img width="1533" height="997" alt="turbo lover" src="https://github.com/user-attachments/assets/afa76834-5cf4-4a96-a9b7-be947ed65874" />
 # RENT-A-HAL Personal Edition API Multi-User Speech UI for AI FOR WINDOWS 11 AND RTX
 ## User Manual & Theory of Operation
 
