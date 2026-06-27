@@ -22,7 +22,7 @@ second installer - rent-a-hal 26 soho api federated
 
 readme - https://drive.google.com/file/d/1ZdICYLQppaQRRKmX6lTvwB1NbOmANaxX/view?usp=sharing
 
-rent-a-hal soho 26 api/federated installer - https://drive.google.com/file/d/1TFBlRNw3yUThha97AZ05FIl4LpQWr5u4/view?usp=sharing
+rent-a-hal soho 26 api/federated installer - https://drive.google.com/file/d/1XT6xkV7cPB4t-_YvFLoNT9VG1AAMPEh8/view?usp=sharing
 
 
 <img width="1022" height="557" alt="HERO-PANEL-RENT-A-HAL" src="https://github.com/user-attachments/assets/f3a36222-7a3b-47cf-98a0-cc7c779ed994" />
