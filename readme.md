@@ -4,6 +4,11 @@
 # RENT-A-HAL Personal Edition API Multi-User Speech UI for AI FOR WINDOWS 11 AND RTX
 ## User Manual & Theory of Operation
 
+new book
+
+https://www.amazon.com/dp/B0H6VR83KR
+
+
 ***** rent-a-hal 26 soho api federated v1 is released ********
 
 write to me for support: jimpames@gmail.com
