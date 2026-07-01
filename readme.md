@@ -1,13 +1,16 @@
-<img width="1477" height="981" alt="COFFEE" src="https://github.com/user-attachments/assets/9c04c347-5a1a-498a-b0d1-8d23f588dc11" />
-<img width="1428" height="989" alt="weather" src="https://github.com/user-attachments/assets/0bff786a-f986-40d8-9872-ff58f5ce53d0" />
-<img width="1533" height="997" alt="turbo lover" src="https://github.com/user-attachments/assets/afa76834-5cf4-4a96-a9b7-be947ed65874" />
 # RENT-A-HAL Personal Edition API Multi-User Speech UI for AI FOR WINDOWS 11 AND RTX
 ## User Manual & Theory of Operation
 
-new book
+
+new book 1 jul 26
 
 https://www.amazon.com/dp/B0H6VR83KR
 
+new capabilities  !!!!!!!!!!!! in multi-moed release coming july 4th weekend
+
+RENT-A-HAL — Multi-Mode, Federation & Conscription Manual
+
+https://github.com/jimpames/RENT-A-HAL-MTOR-PERSONAL-EDITION-SOHO-26-MULTI-USER-SPEECH-UI-FOR-AI/blob/main/FEDERATION_CONSCRIPTION_MANUAL.md
 
 ***** rent-a-hal 26 soho api federated v1 is released ********
 
@@ -32,6 +35,9 @@ readme - https://drive.google.com/file/d/1ZdICYLQppaQRRKmX6lTvwB1NbOmANaxX/view?
 
 rent-a-hal soho 26 api/federated installer - https://drive.google.com/file/d/1XT6xkV7cPB4t-_YvFLoNT9VG1AAMPEh8/view?usp=sharing
 
+<img width="1477" height="981" alt="COFFEE" src="https://github.com/user-attachments/assets/9c04c347-5a1a-498a-b0d1-8d23f588dc11" />
+<img width="1428" height="989" alt="weather" src="https://github.com/user-attachments/assets/0bff786a-f986-40d8-9872-ff58f5ce53d0" />
+<img width="1533" height="997" alt="turbo lover" src="https://github.com/user-attachments/assets/afa76834-5cf4-4a96-a9b7-be947ed65874" />
 
 <img width="1022" height="557" alt="HERO-PANEL-RENT-A-HAL" src="https://github.com/user-attachments/assets/f3a36222-7a3b-47cf-98a0-cc7c779ed994" />
 
