@@ -6,7 +6,7 @@ new book 1 jul 26
 
 https://www.amazon.com/dp/B0H6VR83KR
 
-new capabilities  !!!!!!!!!!!! in multi-moed release coming july 4th weekend
+new capabilities  !!!!!!!!!!!! in multi-mode release coming july 4th weekend
 
 RENT-A-HAL — Multi-Mode, Federation & Conscription Manual
 
