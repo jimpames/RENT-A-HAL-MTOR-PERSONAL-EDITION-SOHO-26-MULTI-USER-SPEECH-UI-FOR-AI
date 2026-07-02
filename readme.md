@@ -1,6 +1,9 @@
 # RENT-A-HAL Personal Edition API Multi-User Speech UI for AI FOR WINDOWS 11 AND RTX
 ## User Manual & Theory of Operation
 
+deep dive
+
+https://youtu.be/5nLdPZ9hBbE?si=ewLo5alb7bSScxJZ
 
 new book 1 jul 26
 
