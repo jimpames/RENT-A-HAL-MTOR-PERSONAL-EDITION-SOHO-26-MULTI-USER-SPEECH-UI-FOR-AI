@@ -1,0 +1,3 @@
+python -m nuitka --standalone --onefile --include-data-dir=templates=templates --include-data-dir=static=static --include-package=fastapi --include-package=uvicorn --include-package-data=uvicorn --include-package=anyio --include-package=starlette --include-package=pydantic --include-package=aiohttp --include-package-data=aiohttp --include-package=websockets --include-package=jinja2 --include-package=realm --product-version=1.0.0 --company-name="N2NHU Labs" --product-name="RENT-A-HAL Wizard" --onefile-tempdir-spec="{CACHE_DIR}\RentAHalWizard\{VERSION}" --output-filename=RentAHalWizard.exe wizard.py
+
+  
