@@ -3,7 +3,7 @@
 
 4th july 2026
 
-multi-mode rent-a-hal is released.
+multi-mode rent-a-hal with client payments and operator cashout is released.
 
 three files
 
