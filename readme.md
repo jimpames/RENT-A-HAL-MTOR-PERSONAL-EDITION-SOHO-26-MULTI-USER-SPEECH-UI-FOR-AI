@@ -5,9 +5,36 @@
 
 multi-mode rent-a-hal is released.
 
+three files
+
+kokoro tts
+
+rentahalwizard
+
+rentahalsoho
+
 supports AI chat (gpt4all,claude,many others) , AI vision (LLAVA via Ollama) and AI imagine (automatic1111, stable diffusion 1.5)
 
+***** rent-a-hal 26 soho api federated multi mode v1 is released ********
+
+write to me for support: jimpames@gmail.com
+
+these binaries are UNSIGNED - I will not have a code signing kit until mid july
+
+you WILL GET WARNINGS downloading/running these files !!!!
+
+if that makes you nervous, go play with the website version until I get it signed
+
+first installer - kokoro tts microservice for rent-a-hal
+
+readme - https://drive.google.com/file/d/1-Ypo_aQyK62GeaUgiiIciGwi4tLE9tQm/view?usp=sharing
+
+kokoro tts installer - https://drive.google.com/file/d/1HqE7tyXUmoh93LhC8lTbAA8i5gpco2m0/view?usp=sharing
+
+main rent-a-hal installer:
+
 https://drive.google.com/drive/folders/10RYBbAIQJKqVLDCby_uRU4IFQdwa7YTO?usp=sharing
+
 
 copy those files to a folder. run the rentahalwizard.exe
 
@@ -39,28 +66,7 @@ RENT-A-HAL — Multi-Mode, Federation & Conscription Manual
 
 https://github.com/jimpames/RENT-A-HAL-MTOR-PERSONAL-EDITION-SOHO-26-MULTI-USER-SPEECH-UI-FOR-AI/blob/main/FEDERATION_CONSCRIPTION_MANUAL.md
 
-***** rent-a-hal 26 soho api federated v1 is released ********
 
-write to me for support: jimpames@gmail.com
-
-
-these binaries are UNSIGNED - I will not have a code signing kit until mid july
-
-you WILL GET WARNINGS downloading/running these files !!!!
-
-if that makes you nervous, go play with the website version until I get it signed
-
-first installer - kokoro tts microservice for rent-a-hal
-
-readme - https://drive.google.com/file/d/1-Ypo_aQyK62GeaUgiiIciGwi4tLE9tQm/view?usp=sharing
-
-kokoro tts installer - https://drive.google.com/file/d/1HqE7tyXUmoh93LhC8lTbAA8i5gpco2m0/view?usp=sharing
-
-second installer - rent-a-hal 26 soho api federated
-
-readme - https://drive.google.com/file/d/1ZdICYLQppaQRRKmX6lTvwB1NbOmANaxX/view?usp=sharing
-
-rent-a-hal soho 26 api/federated installer - https://drive.google.com/file/d/1XT6xkV7cPB4t-_YvFLoNT9VG1AAMPEh8/view?usp=sharing
 
 <img width="1477" height="981" alt="COFFEE" src="https://github.com/user-attachments/assets/9c04c347-5a1a-498a-b0d1-8d23f588dc11" />
 <img width="1428" height="989" alt="weather" src="https://github.com/user-attachments/assets/0bff786a-f986-40d8-9872-ff58f5ce53d0" />
