@@ -1,6 +1,30 @@
 # RENT-A-HAL Personal Edition API Multi-User Speech UI for AI FOR WINDOWS 11 AND RTX
 ## User Manual & Theory of Operation
 
+4th july 2026
+
+multi-mode rent-a-hal is released.
+
+supports AI chat (gpt4all,claude,many others) , AI vision (LLAVA via Ollama) and AI imagine (automatic1111, stable diffusion 1.5)
+
+https://drive.google.com/drive/folders/10RYBbAIQJKqVLDCby_uRU4IFQdwa7YTO?usp=sharing
+
+copy those files to a folder. run the rentahalwizard.exe
+
+visit localhost:9100
+
+new!!!!!!!
+
+say:
+
+what do you see
+
+or
+
+imagine beautiful kittens
+
+-----------------------------------------
+
 deep dive
 
 https://youtu.be/5nLdPZ9hBbE?si=ewLo5alb7bSScxJZ
