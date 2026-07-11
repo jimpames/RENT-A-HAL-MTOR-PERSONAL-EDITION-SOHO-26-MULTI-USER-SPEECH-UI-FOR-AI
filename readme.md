@@ -7,7 +7,12 @@ new books
 
 https://www.amazon.com/dp/B0H8FCRHSL
 
+<img width="1525" height="767" alt="star-trek-computer-book" src="https://github.com/user-attachments/assets/eb119968-ac36-4380-959b-45a516839469" />
+
+
 https://www.amazon.com/RENT-HAL-Federated-Multi-User-Speech-ebook/dp/B0H6VR83KR?ref_=ast_author_mpb
+
+<img width="1472" height="976" alt="rent-a-hal-book" src="https://github.com/user-attachments/assets/5bda2904-c541-469b-b7e3-58c10233e00b" />
 
 
 4th july 2026
