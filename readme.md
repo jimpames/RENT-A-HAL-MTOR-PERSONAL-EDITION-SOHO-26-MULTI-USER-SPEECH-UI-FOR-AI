@@ -1,6 +1,15 @@
 # RENT-A-HAL Personal Edition API Multi-User Speech UI for AI FOR WINDOWS 11 AND RTX
 ## User Manual & Theory of Operation
 
+
+11 jul 26
+new books
+
+https://www.amazon.com/dp/B0H8FCRHSL
+
+https://www.amazon.com/RENT-HAL-Federated-Multi-User-Speech-ebook/dp/B0H6VR83KR?ref_=ast_author_mpb
+
+
 4th july 2026
 
 multi-mode rent-a-hal with client payments and operator cashout is released.
