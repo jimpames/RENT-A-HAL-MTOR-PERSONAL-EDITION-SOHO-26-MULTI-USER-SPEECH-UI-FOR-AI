@@ -1,6 +1,10 @@
 # RENT-A-HAL Personal Edition API Multi-User Speech UI for AI FOR WINDOWS 11 AND RTX
 ## User Manual & Theory of Operation
 
+27 jul deepseek 7B technote
+
+https://github.com/jimpames/RENT-A-HAL-MTOR-PERSONAL-EDITION-SOHO-26-MULTI-USER-SPEECH-UI-FOR-AI/blob/main/TECHNOTE_DeepSeek_GPT4All_State_Retention.md
+
 18 jul 26
 
 new website
