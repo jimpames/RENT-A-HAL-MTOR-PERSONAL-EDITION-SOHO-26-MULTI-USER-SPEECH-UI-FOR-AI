@@ -1,6 +1,15 @@
 # RENT-A-HAL Personal Edition API Multi-User Speech UI for AI FOR WINDOWS 11 AND RTX
 ## User Manual & Theory of Operation
 
+1 sep 26
+
+get the tricorder for android!!!!!!!!!!
+
+https://github.com/jimpames/tricorder/
+
+
+
+
 27 jul deepseek 7B technote
 
 https://github.com/jimpames/RENT-A-HAL-MTOR-PERSONAL-EDITION-SOHO-26-MULTI-USER-SPEECH-UI-FOR-AI/blob/main/TECHNOTE_DeepSeek_GPT4All_State_Retention.md
